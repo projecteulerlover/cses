@@ -4,6 +4,7 @@
         "*.tcc": "cpp",
         "array": "cpp",
         "tuple": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "ratio": "cpp"
     }
 }
